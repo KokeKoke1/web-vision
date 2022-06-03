@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /app/functions/
+
+Sitemap: http://www.example.com/app/sitemap.xml
